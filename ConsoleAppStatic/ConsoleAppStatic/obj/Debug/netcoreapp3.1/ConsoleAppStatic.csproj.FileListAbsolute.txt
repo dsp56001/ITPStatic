@@ -1,0 +1,13 @@
+C:\Users\jmeyers.AD600\source\repos\ConsoleAppStatic\ConsoleAppStatic\bin\Debug\netcoreapp3.1\ConsoleAppStatic.exe
+C:\Users\jmeyers.AD600\source\repos\ConsoleAppStatic\ConsoleAppStatic\bin\Debug\netcoreapp3.1\ConsoleAppStatic.deps.json
+C:\Users\jmeyers.AD600\source\repos\ConsoleAppStatic\ConsoleAppStatic\bin\Debug\netcoreapp3.1\ConsoleAppStatic.runtimeconfig.json
+C:\Users\jmeyers.AD600\source\repos\ConsoleAppStatic\ConsoleAppStatic\bin\Debug\netcoreapp3.1\ConsoleAppStatic.runtimeconfig.dev.json
+C:\Users\jmeyers.AD600\source\repos\ConsoleAppStatic\ConsoleAppStatic\bin\Debug\netcoreapp3.1\ConsoleAppStatic.dll
+C:\Users\jmeyers.AD600\source\repos\ConsoleAppStatic\ConsoleAppStatic\bin\Debug\netcoreapp3.1\ConsoleAppStatic.pdb
+C:\Users\jmeyers.AD600\source\repos\ConsoleAppStatic\ConsoleAppStatic\obj\Debug\netcoreapp3.1\ConsoleAppStatic.csprojAssemblyReference.cache
+C:\Users\jmeyers.AD600\source\repos\ConsoleAppStatic\ConsoleAppStatic\obj\Debug\netcoreapp3.1\ConsoleAppStatic.AssemblyInfoInputs.cache
+C:\Users\jmeyers.AD600\source\repos\ConsoleAppStatic\ConsoleAppStatic\obj\Debug\netcoreapp3.1\ConsoleAppStatic.AssemblyInfo.cs
+C:\Users\jmeyers.AD600\source\repos\ConsoleAppStatic\ConsoleAppStatic\obj\Debug\netcoreapp3.1\ConsoleAppStatic.csproj.CoreCompileInputs.cache
+C:\Users\jmeyers.AD600\source\repos\ConsoleAppStatic\ConsoleAppStatic\obj\Debug\netcoreapp3.1\ConsoleAppStatic.dll
+C:\Users\jmeyers.AD600\source\repos\ConsoleAppStatic\ConsoleAppStatic\obj\Debug\netcoreapp3.1\ConsoleAppStatic.pdb
+C:\Users\jmeyers.AD600\source\repos\ConsoleAppStatic\ConsoleAppStatic\obj\Debug\netcoreapp3.1\ConsoleAppStatic.genruntimeconfig.cache
